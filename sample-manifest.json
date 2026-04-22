@@ -1,12 +1,12 @@
 {
-  "export_job_id": "865be02a-73c5-4417-961f-b87a2d116769",
+  "export_job_id": "ad187681-7a32-46ce-83af-d1b2c6bac7fc",
   "id_short": 849251,
-  "published_at": "2026-04-18T19:58:11Z",
+  "published_at": "2026-04-22T19:04:06Z",
   "repo_name": "all-restaurants-in-topeka-kansas-us-sample-849251",
   "sample_asset_name": "beamstation_849251_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/849251/beamstation_849251_restaurants-us-ks_SAMPLE_DIST.csv",
-  "sample_records": 41,
-  "sample_sha256": "3b609eda9fd595d5b92d863e3ff0f6b5212e5e797e0dbc3742e0f0dda8d23eaa",
-  "sample_size_bytes": 161514,
-  "total_records": 410
+  "sample_records": 13,
+  "sample_sha256": "4749eb8ee2e3d2d28ba28647a1495959b55b096ce5e50f0cd7f7a62b40093fa7",
+  "sample_size_bytes": 60566,
+  "total_records": 132
 }
