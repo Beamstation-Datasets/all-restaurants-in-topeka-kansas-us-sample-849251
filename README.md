@@ -1,6 +1,6 @@
 # All Restaurants in Topeka, Kansas, US
 
-> Free BeamStation sample export with 40 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `849251` |
 | Location | Topeka |
 | Category | Restaurants |
-| Full dataset size | 407 records |
-| Free sample size | 40 records (9.83%) |
-| Last export | 2026-04-28T23:27:23.670079+00:00 |
+| Full dataset size | 423 records |
+| Free sample size | 42 records (9.93%) |
+| Last export | 2026-05-08T02:58:25.879586+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-topeka-kansas-us-sample-849251/releases/download/sample-latest/beamstation_849251_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
